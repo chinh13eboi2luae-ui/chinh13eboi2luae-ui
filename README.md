@@ -1,14 +1,14 @@
 # LE DUC MANH
 
-**LLM integrations · Developer automation · Open source**  
+**Developer tools · API integrations · Open source**  
 Ho Chi Minh City, Vietnam
 
-I build API gateways and developer tools, with a focus on reproducible tests and practical AI-assisted workflows.
+I build developer tools and backend integrations, with a focus on reliable software, focused bug fixes, and reproducible tests.
 
-### Current projects
+### Technical focus
 
-- **[OSS AI Runner · public demo](https://github.com/chinh13eboi2luae-ui/oss-ai-runner-demo)** — A small example of issue fixing, Docker tests, and pull requests. My Windows runner adds issue investigation, model routing, and PR follow-up.
-- **LLM API Gateway** — Node.js / TypeScript; OpenAI-compatible and Anthropic-compatible endpoints, SSE streaming, request queues, and tool-call translation.
+- **API integrations** — Node.js and TypeScript services, REST endpoints, streaming responses, WebSocket connections, request queues, and concurrency controls.
+- **Developer workflows** — Python utilities, GitHub integrations, and repeatable local Docker test environments.
 
 ### Selected contributions
 
@@ -18,6 +18,6 @@ Proposed patches with reproduction cases and test evidence:
 - **[Oribi #115](https://github.com/samhoon000/Oribi/pull/115)** — Make empty column names visible in Markdown reports.
 
 **Tools:** TypeScript · Node.js · Python · Docker · Git · Ubuntu · Nginx  
-**Approach:** Reproduce → focused patch → regression tests → documented results and AI assistance.
+**Approach:** Reproduce the defect → focused patch → regression tests → documented results.
 
 For collaboration, open an issue in the relevant repository.
